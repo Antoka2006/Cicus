@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+section{
+    width: 100%;
+}
+
+.card{
+    width: 300px;
+    text-align:center;
+    background-color: pink;
+    border-radius: 25px;
+    margin: 0 auto;
+    overflow: hidden;
+   
+}
+
+
+
+h1{
+    
+    color:black;    
+    text-decoration: underline black;  
+
+}
+
+p{
+    color: blueviole;
+    padding: 10px;
+    
+
+}
+
+h2{
+    color: #76096f;
+
+}
+
+
+
+
+
+
+
+
